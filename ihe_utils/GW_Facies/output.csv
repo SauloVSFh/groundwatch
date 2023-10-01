@@ -1,0 +1,11 @@
+Example,Cl,Alkalinity,Watertype,Redox number,Redox State,POLIN
+1,g,*,Mg-SO4,conflict,conflict,2.08
+2,g,*,Na-Cl,0-2,Suboxic,0.77
+3,g,*,Ca-Cl,conflict,conflict,0.34
+4,g,*,Ca-HCO3,0-2,Suboxic,0.5
+5,g,3,Ca-HCO3,4,Sulphate-stable,1.58
+6,F,2,Ca-SO4,0-2,Suboxic,2.86
+7,F,2,Ca-NO3,conflict,conflict,3.32
+8,F,2,Ca-HCO3,0-2,Suboxic,1.72
+9,F,3,Ca-HCO3,conflict,conflict,1.97
+10,F,1,Ca-NO3,0-2,Suboxic,3.61

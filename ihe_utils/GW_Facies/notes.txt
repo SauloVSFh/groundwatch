@@ -1,0 +1,48 @@
+assignment 4
+	sometimes compounds are not there
+	you have nitrate and Mn - conflict in data
+	you have nitrate and iron - conflict in data
+		delete sample from database
+		forgot to filter
+		lab exposed sample to air
+		dissolved suspended solids
+	when all concentrations are too low
+		no reduction new water
+	if you dont have nitrate and 
+	
+	the concentration of sulfate very low
+		sulphate reducing - reaction takes a lot of time
+	manganese but now iron and nitrate
+		3
+	no nitrate and iron with no mn
+		4-6
+	only sulphate
+		4-6
+	mn doesnt have to be there
+	sulphate
+		= 0 to 2 mg/L
+		fair change of SO4 reduction
+			4,5-6
+		analyze better
+			some mixing with seawater
+			sulphate chloride ratio
+			original concentration before mixing
+			
+	Mix	
+		lookat the anions groups
+		no dominant group
+		when it falls within the inner triangle
+	BEX
+		capacity increases with clay minerals and organic matter
+		CaHCO3 fw - soil is filled with Ca
+		Exchange capacity filled with Ca
+		eq 3.5
+			reaction to the left - surplus
+			to the right - deficit
+		BEX is nice only if know that fresh-saline water have taken place
+			high Cl concentrations
+			Na-Cl waters
+			it only works well during this circunstance
+			salland case we don't deal with that
+			there's no freshening there
+			

@@ -1,0 +1,4 @@
+Stream flow = 45.22 L/s
+Median velocity = 0.12 m/s
+Maximum velocity =0.24 m/s
+How to compute average velocity?
